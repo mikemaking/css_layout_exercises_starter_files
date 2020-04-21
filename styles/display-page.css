@@ -4,7 +4,7 @@ main{
 
 }
 .flag {
-  margin left: : auto;
+  margin-left: : auto;
   margin-right: auto;
   max-width: 800px;
   width: 50%;
@@ -24,7 +24,7 @@ main{
 }
 
 .galf {
-  margin left: : auto;
+  margin-left: : auto;
   margin-right: auto;
   height: 300px;
   max-width: 800px
