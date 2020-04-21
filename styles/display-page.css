@@ -5,6 +5,8 @@ main{
 .container {
 	margin: auto;
 	box-sizing: border-box;
+	max-width: 800px;
+	height: 500px;
 
 }
 .flag {
