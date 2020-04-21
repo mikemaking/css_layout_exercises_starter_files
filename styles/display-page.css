@@ -1,34 +1,39 @@
-.top {
-	max-width: 800px
-	width: 50%;
-	height: 200px;
-	margin-right: auto;
-	margin-left: auto;
+main{
+  text-align: center;
+   font-size: 0;
 }
-.green {
-	background-color: DarkGreen;
+  
+.flag {
+  height: 200px;
+  width: 50%;
+  display: inline-block;
+  font-size: 0;
+}
+.flag-green {
+	background-color: darkgreen;
 	border: 1px solid black;
 }
-.blue{
-	background-color: DarkSlateBlue;
+.flag-blue{
+	background-color: darkblue;
 	border: 1px solid black;
 }
-.bottom{
-	max-width: 800px
-	width: 30.33%;
-	height: 300px;
-	margin-right: auto;
-	margin-left: auto;
+
+.galf {
+  height: 300px;
+  width: 33.3%;
+  display: inline-block;
+  font-size: 0;
 }
-.grey{
+
+.galf-grey {
 	background-color: grey;
 	border: 1px solid black;
 }
-.black{
+.galf-black	{
 	background-color: black;
 	border: 1px solid black;
 }
-.mustard{
-	background-color: gold;
+.galf-mustard {
+	background-color: yellow;
 	border: 1px solid black;
 }
