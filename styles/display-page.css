@@ -1,0 +1,34 @@
+.top {
+	max-width: 800px
+	width: 50%;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.green {
+	background-color: DarkGreen;
+	border: 1px solid black;
+}
+.blue{
+	background-color: DarkSlateBlue;
+	border: 1px solid black;
+}
+.bottom{
+	max-width: 800px
+	width: 30.33%;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.grey{
+	background-color: grey;
+	border: 1px solid black;
+}
+.black{
+	background-color: black;
+	border: 1px solid black;
+}
+.mustard{
+	background-color: gold;
+	border: 1px solid black;
+}
