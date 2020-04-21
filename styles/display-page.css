@@ -2,7 +2,11 @@ main{
   text-align: center;
    font-size: 0;
 }
-  
+.container {
+	margin: auto;
+	box-sizing: border-box;
+
+}
 .flag {
   height: 200px;
   width: 50%;
