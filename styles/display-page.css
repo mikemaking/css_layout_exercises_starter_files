@@ -6,41 +6,55 @@ main{
 	margin: auto;
 	box-sizing: border-box;
 	max-width: 800px;
-	height: 500px;
+
 
 }
 .flag {
-  width: 400px;
-  height: 200px;
+  margin left: : auto;
+  margin-bottom: auto;
+  box-sizing: border-box;
+  max-width: 800px;
   display: inline-block;
   font-size: 0;
 }
 .flag-green {
+	width: 400px;
+	height: 200px;
 	background-color: darkgreen;
 	border: 1px solid black;
 
 }
 .flag-blue{
+	width: 400px;
+	height: 200px;
 	background-color: darkblue;
 	border: 1px solid black;
 }
 
 .galf {
+  margin left: : auto;
+  margin-bottom: auto;
   height: 300px;
-  width: 266.6px;
+  max-width: 800px;
   display: inline-block;
   font-size: 0;
 }
 
 .galf-grey {
+	width: 266.6px;
+	height: 300px;
 	background-color: grey;
 	border: 1px solid black;
 }
 .galf-black	{
+	width: 266.6px;
+	height: 300px;
 	background-color: black;
 	border: 1px solid black;
 }
 .galf-mustard {
+	width: 266.6px;
+	height: 300px;
 	background-color: yellow;
 	border: 1px solid black;
 }
