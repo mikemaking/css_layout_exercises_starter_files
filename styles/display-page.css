@@ -10,16 +10,19 @@ main{
 
 }
 .flag {
-  height: 200px;
-  width: 50%;
   display: inline-block;
   font-size: 0;
 }
 .flag-green {
+	width: 400px;
+	height: 200px;
 	background-color: darkgreen;
 	border: 1px solid black;
+
 }
 .flag-blue{
+	width: 400px;
+	height: 200px;
 	background-color: darkblue;
 	border: 1px solid black;
 }
